@@ -4,7 +4,10 @@ DESHBORD LAYOUT IS COMPLETED.
 
 # Controllers
 
-i. Contact Info\
-ii. Achivements\
-iii. Images\
-iv. College Gallery
+1. Contact Info\
+2. Achivements\
+3. Images\
+4. College Gallery\
+5. News\
+6.  Grievance cell\
+7.  Anti Ragging cell\

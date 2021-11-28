@@ -12,3 +12,4 @@ DESHBORD LAYOUT IS COMPLETED.
 6. Grievance cell
 7. Anti Ragging cell
 8. SSIP Cell
+9. Placment Cell

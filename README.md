@@ -5,4 +5,6 @@ DESHBORD LAYOUT IS COMPLETED.
 # Controllers
 
 i. Contact Info\
-ii. Achivements
+ii. Achivements\
+iii. Images\
+iv. College Gallery

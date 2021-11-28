@@ -9,5 +9,6 @@ DESHBORD LAYOUT IS COMPLETED.
 3. Images
 4. College Gallery
 5. News
-6.  Grievance cell
-7.  Anti Ragging cell
+6. Grievance cell
+7. Anti Ragging cell
+8. SSIP Cell

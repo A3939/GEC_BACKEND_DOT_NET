@@ -14,3 +14,11 @@ DESHBORD LAYOUT IS COMPLETED.
 8. SSIP Cell
 9. Women Cell
 10. Placment Cell
+11. Company Details
+12. Attachments
+13. Lab and workshops
+14. Subjects Lists
+15. Department
+16. Faculty Details
+17. Campus
+18. About College
